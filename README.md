@@ -7,5 +7,8 @@
 ![2017 Refactored Analysis](https://github.com/szyck/VBA-Challenge/blob/main/Resources/VBA_Challenge_2017.png)
 ![2018 Refactored Analysis](https://github.com/szyck/VBA-Challenge/blob/main/Resources/VBA_Challenge_2018.png)
 
+While the new code runs in a fraction of a second, the old code takes over 3 seconds.
+
 ## Summary
   
+  Obviously the end result of the refactored code is superior to the old code in terms of speed and efficiency. However, there are other things to consider when thinking about refactoring code. For our purposes and relatively small dataset, the time cost to refactor our code does not outweigh the brief time the run time saved us. If one did happen to need code to analyze large data sets, the time spent to refactor the code would pay itself back many times over. If starting from scratch, one would want to use the refactored method store the variables we used in arrays.
