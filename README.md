@@ -4,7 +4,7 @@
 ## Results
   Both codes output the exact same values for the entries. However, the refactored code runs many orders of magnitude faster than the old code. This is true for both 2017 and 2018, and the old code does not even format the cell colors.
  
-![2017 Refactored Analysis]()
+![2017 Refactored Analysis](https://github.com/szyck/VBA-Challenge/tree/main/Resources/VBA_Challenge_2017.png)
 
 ## Summary
   
